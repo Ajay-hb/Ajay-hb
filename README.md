@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/capsule?type=soft&color=0A0F0B&colorEnd=1A2F1B&height=180&section=header&text=Ajay+Ponnuru+-+Data+Scientist+%26+AI+Engineer&fontSize=28&fontColor=ffffff&animation=none&gradientDirection=horizontal&parallax=false&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=false&textAlignX=50&textAlignY=50" />
 </div>
