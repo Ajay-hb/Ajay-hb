@@ -15,10 +15,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-ponnuru)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajay-hb)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](ajay-portfolio-seven-ivory.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ponnuru.ajaykumar@gmail.com)
 
 </div>
 
@@ -37,9 +37,7 @@ My interests span across:
 - 🧠 Deep Learning
 - 🔤 Natural Language Processing
 - 👁️ Computer Vision
-- ⚡ Transformers & LLMs
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🤝 Agentic AI Systems
+
 
 Currently building projects that bridge the gap between traditional Machine Learning and modern AI systems.
 
@@ -61,21 +59,25 @@ Deep Learning
 CNN
    ↓
 LSTM / GRU
-   ↓
-Transformers
-   ↓
-LLMs
-   ↓
-RAG
-   ↓
-Agentic AI
-   ↓
-MLOps
+
 ````
 
 ---
 
 ## 🤖 Featured Projects
+
+### 📊 Autonomous Data Scientist AI System
+
+AI-powered platform capable of analyzing datasets and generating insights automatically.
+
+**Tech Stack**
+
+* Python
+* Machine Learning
+* Data Visualization
+* Streamlit
+
+---
 
 ### 🎬 IMDb Movie Review Sentiment Predictor
 
@@ -107,23 +109,12 @@ Image classification application using Deep Learning.
 
 ---
 
-### 📊 Autonomous Data Scientist AI System
 
-AI-powered platform capable of analyzing datasets and generating insights automatically.
-
-**Tech Stack**
-
-* Python
-* Machine Learning
-* Data Visualization
-* Streamlit
-
----
 
 ## 🛠️ Core Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,docker,aws,github,linux,mysql&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,,mysql,PowerBI,&perline=9&theme=dark" />
 </div>
 
 ### 📦 Data Science
@@ -149,14 +140,6 @@ AI-powered platform capable of analyzing datasets and generating insights automa
 * CNN
 * LSTM
 * GRU
-
-### ⚡ AI & LLMs
-
-* Transformers
-* Hugging Face
-* Prompt Engineering
-* RAG
-* Vector Databases
 
 ### ☁️ Deployment
 
