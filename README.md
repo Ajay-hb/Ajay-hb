@@ -1,27 +1,29 @@
 
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/capsule?type=soft&color=0A0F0B&colorEnd=1A2F1B&height=180&section=header&text=Ajay+Ponnuru+-+Data+Scientist+%26+AI+Engineer&fontSize=28&fontColor=ffffff&animation=none&gradientDirection=horizontal&parallax=false&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=false&textAlignX=50&textAlignY=50" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:1E293B&text=Ajay%20Ponnuru&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=60"/>
+
 </div>
 
-
-<h1 align="center">Turning Data into Intelligence 🚀</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ABD200&center=true&vCenter=true&width=700&height=30&lines=Data+Scientist;Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Transformers+%7C+LLMs+%7C+RAG;Building+Intelligent+AI+Systems" alt="Typing SVG" />
-</div>
+<h3 align="center">Turning Data into Intelligence 🚀</h3>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-ponnuru)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajay-hb)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](ajay-portfolio-seven-ivory.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ponnuru.ajaykumar@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Transformers+%7C+LLMs+%7C+RAG;Building+AI-Powered+Solutions"/>
 
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=1&alignment=center&bgSolidColor=2D4A2D&bgStartColor=2D4A2D&bgEndColor=2D4A2D&bgGradientDirection=horizontal" alt="Divider" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
 </div>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -29,18 +31,86 @@ I am a passionate **Data Scientist and AI Engineer** focused on transforming dat
 
 My interests span across:
 
-- 📊 Data Science
+- 📊 Data Analytics
 - 🤖 Machine Learning
 - 🧠 Deep Learning
 - 🔤 Natural Language Processing
-- 👁️ Computer Vision
+- ⚡ Transformers & LLMs
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🤝 Agentic AI Systems
 
-
-Currently building projects that bridge the gap between traditional Machine Learning and modern AI systems.
+Currently building projects that bridge the gap between traditional Machine Learning and modern AI applications.
 
 ---
 
-## 🚀 Learning Roadmap
+## 🎯 Current Focus
+
+- 🧠 Advanced Deep Learning
+- ⚡ Transformers & LLMs
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🤖 Agentic AI
+- ☁️ AI Deployment & MLOps
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,mysql,git,github,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</div>
+
+### 📊 Data Science & Analytics
+
+- Python
+- SQL
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### 🤖 Machine Learning
+
+- Scikit-Learn
+- Regression
+- Classification
+- Clustering
+- XGBoost
+
+### 🧠 Deep Learning
+
+- TensorFlow
+- Keras
+- CNN
+- LSTM
+- GRU
+
+### ⚡ AI & NLP
+
+- Transformers
+- NLP
+- Sentiment Analysis
+- Prompt Engineering
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|------------|
+| 🎬 IMDb Movie Review Sentiment Predictor | Deep Learning-based sentiment analysis system |
+| 🖼️ Object Recognition in Images | CNN-based image classification application |
+| 📊 Autonomous Data Scientist AI System | AI-powered data analysis and insights generation |
+
+---
+
+## 📈 Learning Roadmap
 
 ```text
 Python
@@ -56,136 +126,79 @@ Deep Learning
 CNN
    ↓
 LSTM / GRU
-
+   ↓
+Transformers
+   ↓
+LLMs
+   ↓
+RAG
+   ↓
+Agentic AI
+   ↓
+MLOps
 ````
 
 ---
 
-## 🤖 Featured Projects
-
-### 📊 Autonomous Data Scientist AI System
-
-AI-powered platform capable of analyzing datasets and generating insights automatically.
-
-**Tech Stack**
-
-* Python
-* Machine Learning
-* Data Visualization
-* Streamlit
-
----
-
-### 🎬 IMDb Movie Review Sentiment Predictor
-
-Deep Learning-based sentiment analysis system for movie reviews.
-
-🔗 https://ajay-hb-imdb-movie-review-sentiment-predictor.streamlit.app/
-
-**Tech Stack**
-
-* Python
-* TensorFlow
-* NLP
-* Streamlit
-
----
-
-### 🖼️ Object Recognition in Images
-
-Image classification application using Deep Learning.
-
-🔗 https://ajay-hb-object-recognition-in-images.streamlit.app/
-
-**Tech Stack**
-
-* TensorFlow
-* CNN
-* Computer Vision
-* Streamlit
-
----
-
-
-
-## 🛠️ Core Stack
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,mysql,git,github,vscode,linux&perline=8&theme=dark" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ajay-hb&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-hb&layout=compact&theme=github_dark&hide_border=true"/>
+
 </div>
 
-### 📦 Data Science
-
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-Learn
-
-### 🤖 Machine Learning
-
-* Regression
-* Classification
-* Clustering
-* Ensemble Learning
-* XGBoost
-
-### 🧠 Deep Learning
-
-* TensorFlow
-* Keras
-* CNN
-* LSTM
-* GRU
-
-### ☁️ Deployment
-
-* Streamlit
-* Git
-* GitHub
-* Docker
-* AWS
-
----
-
-<h2 align="center">📊 GitHub Activity</h2>
+<br>
 
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/stats?username=Ajay-hb&theme=merko&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=8" width="49%" />
-  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=Ajay-hb&theme=merko&layout=pie&hide_border=false&hide_progress=false&langs_count=6&border_radius=8" width="49%" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/activity?username=Ajay-hb&theme=merko&hide_border=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ajay-hb&theme=github-dark-blue&hide_border=true"/>
+
 </div>
 
 ---
 
-## 🎯 2026 Goal
+## 📈 Contribution Activity
 
-Become a Data Scientist / AI Engineer capable of building:
+<div align="center">
 
-✅ Machine Learning Systems
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-hb&theme=github-dark&hide_border=true"/>
 
-✅ Deep Learning Applications
+</div>
 
-✅ Computer Vision Models
+---
 
-✅ LLM-Powered Products
+## 🎯 2026 Goals
 
-✅ RAG Systems
+✅ Build Production-Ready ML Systems
 
-✅ Agentic AI Workflows
+✅ Master Deep Learning & Transformers
 
-✅ Production-Ready AI Solutions
+✅ Develop LLM-Powered Applications
+
+✅ Create RAG-Based AI Systems
+
+✅ Build Agentic AI Workflows
+
+✅ Become a Top-Tier Data Scientist & AI Engineer
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/quotes?theme=merko&quote=Data+is+the+new+oil,+but+intelligence+is+the+refinery.&author=Ajay+Ponnuru&textAlign=center&authorAlign=center" />
+
+### 💡 Quote of the Day
+
+*"Data is the new oil, but intelligence is the refinery."*
+
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=0A0F0B&colorEnd=1A2F1B&height=100&section=footer&text=Data-driven.+AI-powered.+Future-ready.&fontSize=24&fontColor=ABD200&animation=none&gradientDirection=horizontal&parallax=false&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=72" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,100:1E293B"/>
+
 </div>
 ```
