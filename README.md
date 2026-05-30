@@ -2,9 +2,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:1E293B&text=Ajay%20Ponnuru&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=60"/>
-
 </div>
-
 <h3 align="center">Turning Data into Intelligence 🚀</h3>
 
 <div align="center">
