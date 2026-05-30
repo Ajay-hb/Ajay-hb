@@ -114,7 +114,7 @@ Image classification application using Deep Learning.
 ## 🛠️ Core Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,,mysql,PowerBI,&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,mysql,git,github,vscode,linux&perline=8&theme=dark" />
 </div>
 
 ### 📦 Data Science
