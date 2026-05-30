@@ -1,86 +1,211 @@
+````markdown
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/capsule?type=soft&color=0A0F0B&colorEnd=1A2F1B&height=180&section=header&text=Data+Scientist+%26+ML+Engineer&fontSize=30&fontColor=ffffff&animation=none&gradientDirection=horizontal&parallax=false&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=false&textAlignX=50&textAlignY=50" />
+  <img src="https://github-profile-maker.vercel.app/api/capsule?type=soft&color=0A0F0B&colorEnd=1A2F1B&height=180&section=header&text=Ajay+Ponnuru+-+Data+Scientist+%26+AI+Engineer&fontSize=28&fontColor=ffffff&animation=none&gradientDirection=horizontal&parallax=false&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=false&textAlignX=50&textAlignY=50" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/github.png" width="130" height="130" style="border-radius: 15px;" />
+  <img src="https://github.com/Ajay-hb.png" width="130" height="130" style="border-radius: 15px;" />
 </div>
 
-<h1 align="center">Turning data into decisions 🧠</h1>
+<h1 align="center">Turning Data into Intelligence 🚀</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ABD200&center=true&vCenter=true&width=520&height=30&lines=Machine%20Learning%20Engineer%3BDeep%20Learning%20%C2%B7%20NLP%20%C2%B7%20Computer%20Vision%3BPython%20%C2%B7%20PyTorch%20%C2%B7%20TensorFlow%3BMaking%20models%20that%20ship%20to%20production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ABD200&center=true&vCenter=true&width=700&height=30&lines=Data+Scientist;Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Transformers+%7C+LLMs+%7C+RAG;Building+Intelligent+AI+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:research@yoursite.ai) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yoursite.ai)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajay-hb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
 </div>
 
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=1&alignment=center&bgSolidColor=2D4A2D&bgStartColor=2D4A2D&bgEndColor=2D4A2D&bgGradientDirection=horizontal" alt="Divider" />
 </div>
 
-## What I Work On 🔬
+## 👨‍💻 About Me
 
-I research and build machine learning systems — from data pipelines and feature engineering to model training, evaluation, and deployment. I bridge the gap between research and production.
+I am a passionate **Data Scientist and AI Engineer** focused on transforming data into actionable insights and intelligent solutions.
 
-<details open>
-<summary>📄 Research & Publications</summary>
+My interests span across:
 
-- **[2024]** "Efficient Fine-Tuning of LLMs at Scale" — arxiv.org/abs/xxxx
-- **[2023]** "Real-Time Anomaly Detection in Time-Series Data" — arxiv.org/abs/yyyy
-- **[2022]** "Self-Supervised Representations for Medical Imaging" — NeurIPS Workshop
+- 📊 Data Science
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 🔤 Natural Language Processing
+- 👁️ Computer Vision
+- ⚡ Transformers & LLMs
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🤝 Agentic AI Systems
 
-</details>
+Currently building projects that bridge the gap between traditional Machine Learning and modern AI systems.
 
-<details>
-<summary>🤖 Featured ML Projects</summary>
+---
 
-- **llm-fine-tuner** — CLI for LoRA/QLoRA fine-tuning of open-source LLMs
-- **timeseries-bench** — Benchmark suite for time-series forecasting models
-- **cv-pipeline** — Modular computer vision training framework (PyTorch Lightning)
+## 🚀 Learning Roadmap
 
-</details>
+```text
+Python
+   ↓
+SQL
+   ↓
+Statistics
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+CNN
+   ↓
+LSTM / GRU
+   ↓
+Transformers
+   ↓
+LLMs
+   ↓
+RAG
+   ↓
+Agentic AI
+   ↓
+MLOps
+````
 
-## Core Stack 🧰
+---
+
+## 🤖 Featured Projects
+
+### 🎬 IMDb Movie Review Sentiment Predictor
+
+Deep Learning-based sentiment analysis system for movie reviews.
+
+🔗 https://ajay-hb-imdb-movie-review-sentiment-predictor.streamlit.app/
+
+**Tech Stack**
+
+* Python
+* TensorFlow
+* NLP
+* Streamlit
+
+---
+
+### 🖼️ Object Recognition in Images
+
+Image classification application using Deep Learning.
+
+🔗 https://ajay-hb-object-recognition-in-images.streamlit.app/
+
+**Tech Stack**
+
+* TensorFlow
+* CNN
+* Computer Vision
+* Streamlit
+
+---
+
+### 📊 Autonomous Data Scientist AI System
+
+AI-powered platform capable of analyzing datasets and generating insights automatically.
+
+**Tech Stack**
+
+* Python
+* Machine Learning
+* Data Visualization
+* Streamlit
+
+---
+
+## 🛠️ Core Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,aws,github,linux&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,docker,aws,github,linux,mysql&perline=9&theme=dark" />
 </div>
 
-### Data & Tooling 📦
+### 📦 Data Science
 
-```python
-# A glimpse at my typical experiment setup
-import torch
-from transformers import AutoModelForCausalLM, AutoTokenizer
-from peft import LoraConfig, get_peft_model
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-Learn
 
-model = AutoModelForCausalLM.from_pretrained("mistralai/Mistral-7B-v0.1")
-config = LoraConfig(r=16, lora_alpha=32, target_modules=["q_proj", "v_proj"])
-model = get_peft_model(model, config)
-print(f"Trainable params: {model.num_parameters(only_trainable=True):,}")
+### 🤖 Machine Learning
+
+* Regression
+* Classification
+* Clustering
+* Ensemble Learning
+* XGBoost
+
+### 🧠 Deep Learning
+
+* TensorFlow
+* Keras
+* CNN
+* LSTM
+* GRU
+
+### ⚡ AI & LLMs
+
+* Transformers
+* Hugging Face
+* Prompt Engineering
+* RAG
+* Vector Databases
+
+### ☁️ Deployment
+
+* Streamlit
+* Git
+* GitHub
+* Docker
+* AWS
+
+---
+
+<h2 align="center">📊 GitHub Activity</h2>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/stats?username=Ajay-hb&theme=merko&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=8" width="49%" />
+  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=Ajay-hb&theme=merko&layout=pie&hide_border=false&hide_progress=false&langs_count=6&border_radius=8" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/activity?username=Ajay-hb&theme=merko&hide_border=false" />
+</div>
+
+---
+
+## 🎯 2026 Goal
+
+Become a Data Scientist / AI Engineer capable of building:
+
+✅ Machine Learning Systems
+
+✅ Deep Learning Applications
+
+✅ Computer Vision Models
+
+✅ LLM-Powered Products
+
+✅ RAG Systems
+
+✅ Agentic AI Workflows
+
+✅ Production-Ready AI Solutions
+
+---
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/quotes?theme=merko&quote=Data+is+the+new+oil,+but+intelligence+is+the+refinery.&author=Ajay+Ponnuru&textAlign=center&authorAlign=center" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=0A0F0B&colorEnd=1A2F1B&height=100&section=footer&text=Data-driven.+AI-powered.+Future-ready.&fontSize=24&fontColor=ABD200&animation=none&gradientDirection=horizontal&parallax=false&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=72" />
+</div>
 ```
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=1&alignment=center&bgSolidColor=2D4A2D&bgStartColor=2D4A2D&bgEndColor=2D4A2D&bgGradientDirection=horizontal" alt="Divider" />
-</div>
-
-<h2 align="center">GitHub Activity 📊</h2>
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/stats?username=github&theme=merko&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=8" alt="GitHub Stats" width="49%" height="230" style="margin-right: 12px;" />
-  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=github&theme=merko&layout=pie&hide_border=false&hide_progress=false&langs_count=6&border_radius=8" alt="Top Languages" width="49%" height="230" style="" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/activity?username=github&theme=merko&hide_border=false" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/quotes?theme=merko&quote=In+God+we+trust%2C+all+others+must+bring+data.&author=W.+Edwards+Deming&textAlign=center&authorAlign=center" alt="Quote" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=0A0F0B&colorEnd=1A2F1B&height=100&section=footer&text=Data-driven.+Research-inspired.+Production-ready.&fontSize=24&fontColor=ABD200&animation=none&gradientDirection=horizontal&parallax=false&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=72" />
-</div>
